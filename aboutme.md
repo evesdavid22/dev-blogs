@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a developer by hobby who has a great interest in procedural content generation. This blog is a place for me to write about my experiences and projects mostly related to this topic.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+At some point this may evolve into a game development blog as well, depending on how successful and time-consuming the initial work is.
 
-What else do you need?
+My contact details are located hereabouts, likely in the footer of the homepage. For the most part this site is still under construction, this will probably be the last page I update once said construction is finished so if you're reading this, there is still background work going on.
 
-### My story
+In realspace I work in London, in one of the many pillars of financial services. I should state that my views here are my own and not representative of anyone else's, including my employer, friends, family, etc. just a general disclaimer.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
