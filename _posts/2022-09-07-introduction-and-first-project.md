@@ -34,9 +34,9 @@ I am not constraining myself to performative code for two primary reasons: one i
 
 There are several extremely successful implementations of procedural generation in maps out there right now. The first that I encountered and that got me started on this journey was [Dwarf Fortress](http://www.bay12games.com/dwarves/). 
 
-|![DF Map](/assets/img/DF-Map.png){: .mx-auto.d-block :}|
+|![DF Map](/assets/img/DF-Map.png)|
 |:--:|
-|If you understand this, you've spent your time well.|
+|If you understand this, you've spent your time well.|{: .mx-auto.d-block :}
 
 Of course, more contemporary map generators now exist. Such as the aforementioned Azgaar's, here are some others that you may have heard of:
 * [Donjon](https://donjon.bin.sh/fantasy/world/)
